@@ -1,0 +1,7 @@
+{
+    "name": "root/ab-project",
+    "require": {
+    "php": ">=5.4.0",
+	 "laravel/framework" : "4.1.*"
+    }
+}
